@@ -1,0 +1,42 @@
+* {
+  font-family: Verdana;
+}
+
+img {
+  height: 500px;
+  width: auto;
+}
+
+.title {
+  text-align: center;
+  color: white;
+}
+
+.raspberry {
+  color: #ff004c;
+}
+
+.raspberry.topping {
+  color: #ffa8b7;
+}
+
+#muffins {
+  background-color: #ff004c;
+}
+
+.oat {
+  color: burlywood;
+}
+
+#cookies {
+  background-color: burlywood;
+}
+
+.loaf {
+  color: #abd100;
+}
+
+#lemon {
+  background-color: rgb(255, 238, 0);
+  color: #abd100;
+}
